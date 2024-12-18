@@ -38,7 +38,7 @@ def overlay_mask(input_dir, mask_path, output_dir):
 
 if __name__ == "__main__":
     input_dir = "/media/lukas/NIKON D3300/DCIM/100D3300/"
-    mask_path = "./kaders/NED-2024.png"
+    mask_path = "./kaders/Adrege-2024.png"
     output_dir = "./gekaderd"
 
     overlay_mask(input_dir, mask_path, output_dir)
